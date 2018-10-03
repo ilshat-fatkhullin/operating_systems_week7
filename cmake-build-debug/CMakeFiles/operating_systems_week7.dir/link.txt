@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/operating_systems_week7.dir/exercise_5.c.o  -o operating_systems_week7 
